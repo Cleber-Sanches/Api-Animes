@@ -1,0 +1,18 @@
+[
+  {
+    "animeID": 2,
+    "data": {
+      "nome": "Boruto: Naruto Next Generations",
+      "episodios": 293,
+      "status": "Em andamento",
+      "dia_horario_transmissao": "Não definido",
+      "duracaoPorEp": 24,
+      "generos": [
+        "Ação",
+        "Aventura",
+        "Fantasia",
+        "Shounen"
+      ]
+    }
+  }
+]
