@@ -56,7 +56,7 @@ E assim, a API de Animes ganhou vida. Originou-se de uma necessidade pessoal e e
 4.  **Explore as Rotas:** Utilize um cliente API, como o [Insomnia](https://insomnia.rest/), para explorar e testar as rotas da API.
 5.  **Exemplo de Uso:** Abaixo, você encontrará um link para baixar um arquivo JSON com as rotas da API configuradas no Insomnia. Importe este arquivo no Insomnia para começar a interagir com a API imediatamente.
 
-    [![Arquivo com as rotas](https://img.shields.io/badge/Arquivo%20com%20as%20rotas-4000BF?logo=insomnia&logoColor=white)](/C:/Users/clebe/AppData/Local/Programs/Joplin/resources/app.asar/seu_link_aqui_para_o_arquivo.json "seu_link_aqui_para_o_arquivo.json")
+    [![Arquivo com as rotas](https://img.shields.io/badge/Arquivo%20com%20as%20rotas-4000BF?logo=insomnia&logoColor=white)](https://github.com/Cleber-Sanches/Api-Animes/blob/main/rotas-insomnia.json)
 
 ---
 
