@@ -2,7 +2,7 @@
 
 Bem-vindo à API de Animes, um projeto desenvolvido para facilitar o gerenciamento e a exploração de seus animes favoritas.
 
-## 📜 A História por Trás da API de Animes
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" align="baseline"/> A História por Trás da API de Animes
 
 A história por trás da API de Animes começa com uma situação. Eu estava ansioso para começar a assistir a um novo anime, mas me deparei com uma pergunta: quanto tempo eu precisaria para assistir ao anime completo? Surpreendentemente, não encontrei uma ferramenta que fornecesse essa informação de maneira simples e direta.
 
@@ -20,35 +20,32 @@ E assim, a API de Animes ganhou vida. Originou-se de uma necessidade pessoal e e
 
   - [A funcionalidade de cálculo de tempo está sendo desenvolvida e estará disponível em breve.]
 
-- [x] Gerenciar uma lista personalizada de animes assistidos, em andamento e planejados.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Gerenciar uma lista personalizada de animes assistidos, em andamento e planejados.
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Listar animes na lista do usuário.
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Adicionar um anime à lista do usuário.
+   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Remover um anime da lista do usuário.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Indicar o episódio atual assistido pelo usuário.
 
-  - [x] Listar animes na lista do usuário.
-  - [x] Adicionar um anime à lista do usuário.
-  - [x] Remover um anime da lista do usuário.
-  - [ ] Indicar o episódio atual assistido pelo usuário.
-
-- [x] Pesquisar animes por nome ou ID.
-
-  - [x] Buscar detalhes de um anime por ID ou nome.
-
-- [x] Recursos administrativos para adicionar, atualizar e remover animes do banco de dados.
-  - [x] Registrar um novo anime.
-  - [x] Excluir um anime do banco de dados.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Pesquisar animes por nome ou ID.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Buscar detalhes de um anime por ID ou nome.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Recursos administrativos para adicionar, atualizar e remover animes do banco de dados.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Registrar um novo anime.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Excluir um anime do banco de dados.
 
 ### Funcionalidades a Serem Implementadas
 
-- [ ] Sistema de avaliação para cada anime.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Sistema de avaliação para cada anime.
 
-  - [ ] Adicionar a funcionalidade de avaliação para cada anime.
-  - [ ] Permitir que os usuários avaliem os animes com notas.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Adicionar a funcionalidade de avaliação para cada anime.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Permitir que os usuários avaliem os animes com notas.
 
-- [ ] Sistema de gerenciamento de status dos animes na lista do usuário.
-  - [ ] Permitir que os usuários marquem animes como "Assistindo", "Completo" e "Planejado" etc...
-  - [ ] Implementar atualização de status para cada anime na lista do usuário.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Sistema de gerenciamento de status dos animes na lista do usuário.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Permitir que os usuários marquem animes como "Assistindo", "Completo" e "Planejado" etc...
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Implementar atualização de status para cada anime na lista do usuário.
 
 ---
 
-## 🛠️ Como Usar
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="27" align="center" /> Como Usar
 
 1.  **Clone o Repositório:** Comece clonando este repositório em seu ambiente de desenvolvimento.
 2.  **Instale as Dependências:** Use o comando `npm install` para instalar as dependências necessárias.
