@@ -51,10 +51,14 @@ E assim, a API de Animes ganhou vida. Originou-se de uma necessidade pessoal e e
 3.  **Inicie a Aplicação:** Execute a aplicação com o comando `npm run dev`.
 4.  **Explore as Rotas:** Utilize um cliente API, como o [Insomnia](https://insomnia.rest/), para explorar e testar as rotas da API.
 5.  **Exemplo de Uso:** Abaixo, você encontrará um link para baixar um arquivo JSON com as rotas da API configuradas no Insomnia. Importe este arquivo no Insomnia para começar a interagir com a API imediatamente.
+</br>
 
-    <p >[![Arquivo com as rotas](https://img.shields.io/badge/Arquivo%20com%20as%20rotas-4000BF?logo=insomnia&logoColor=white)](https://github.com/Cleber-Sanches/Api-Animes/blob/main/rotas-insomnia.json)</p>
+   <p align="center">
+    <a href="https://github.com/Cleber-Sanches/Api-Animes/blob/main/rotas-insomnia.json">
+        <img src="https://img.shields.io/badge/Arquivo%20com%20as%20rotas-4000BF?logo=insomnia&logoColor=white" width="300">
+    </a>
+</p>
 
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Rotas da API
 
