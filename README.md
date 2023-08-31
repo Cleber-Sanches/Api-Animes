@@ -16,9 +16,8 @@ E assim, a API de Animes ganhou vida. Originou-se de uma necessidade pessoal e e
 
 ### Funcionalidades Ativas
 
-- [ ] Calcular o tempo estimado para assistir a um anime completo.
-
-  - [A funcionalidade de cálculo de tempo está sendo desenvolvida e estará disponível em breve.]
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Calcular o tempo estimado para assistir a um anime completo.
+  - A funcionalidade de cálculo de tempo está sendo desenvolvida e estará disponível em breve.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Gerenciar uma lista personalizada de animes assistidos, em andamento e planejados.
    - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Listar animes na lista do usuário.
@@ -53,11 +52,11 @@ E assim, a API de Animes ganhou vida. Originou-se de uma necessidade pessoal e e
 4.  **Explore as Rotas:** Utilize um cliente API, como o [Insomnia](https://insomnia.rest/), para explorar e testar as rotas da API.
 5.  **Exemplo de Uso:** Abaixo, você encontrará um link para baixar um arquivo JSON com as rotas da API configuradas no Insomnia. Importe este arquivo no Insomnia para começar a interagir com a API imediatamente.
 
-    [![Arquivo com as rotas](https://img.shields.io/badge/Arquivo%20com%20as%20rotas-4000BF?logo=insomnia&logoColor=white)](https://github.com/Cleber-Sanches/Api-Animes/blob/main/rotas-insomnia.json)
+    <p >[![Arquivo com as rotas](https://img.shields.io/badge/Arquivo%20com%20as%20rotas-4000BF?logo=insomnia&logoColor=white)](https://github.com/Cleber-Sanches/Api-Animes/blob/main/rotas-insomnia.json)</p>
 
 ---
 
-## 🚀 Rotas da API
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Rotas da API
 
 Aqui estão as principais rotas da API de Animes e suas descrições:
 
@@ -333,7 +332,7 @@ Exemplo de resposta (200 OK):
 
 ---
 
-## 📬 Contato
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Contato
 
 Se tiver alguma dúvida, sugestão ou desejar entrar em contato, fique à vontade para me enviar uma mensagem direta no Discord:
 
