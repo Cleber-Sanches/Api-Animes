@@ -4,13 +4,17 @@ Bem-vindo à API de Animes, um projeto desenvolvido para facilitar o gerenciamen
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" align="baseline"/> A História por Trás da API de Animes
 
-A história por trás da API de Animes começa com uma situação. Eu estava ansioso para começar a assistir a um novo anime, mas me deparei com uma pergunta: quanto tempo eu precisaria para assistir ao anime completo? Surpreendentemente, não encontrei uma ferramenta que fornecesse essa informação de maneira simples e direta.
+Ansioso para começar um novo anime me questionei quanto tempo precisaria para assisti-lo completamente? Surpreendentemente, não encontrei uma ferramenta que fornecesse essa informação de maneira simples e direta.
 
-Essa ausência de uma solução imediata despertou minha curiosidade e, ao mesmo tempo, me inspirou. Decidi transformar essa necessidade pessoal em um projeto prático. A ideia inicial era criar uma calculadora de tempo de exibição que pudesse oferecer estimativas realistas com base na duração dos episódios e no número total deles. No entanto, por que parar por aí?
+Essa ausência de uma solução imediata despertou minha curiosidade e, ao mesmo tempo, me inspirou, decidi então transformar essa necessidade pessoal em um projeto prático. 
 
-Ao explorar mais profundamente, percebi outra oportunidade a ser explorada: a falta de uma plataforma centralizada para gerenciar meus próprios animes. A busca por uma solução eficaz para acompanhar o que já assisti, o que estava assistindo e o que estava na fila de espera era uma necessidade compartilhada por muitos.
+A ideia inicial era criar uma calculadora de tempo de exibição que pudesse oferecer estimativas realistas com base na duração dos episódios e no número total deles.
 
-E assim, a API de Animes ganhou vida. Originou-se de uma necessidade pessoal e evoluiu para uma ferramenta que não apenas calcula o tempo de exibição, mas também oferece um espaço organizado para gerenciar e explorar uma variedade diversificada de animes. A API de Animes é o resultado da paixão por animes e do desejo de encontrar soluções práticas, criando uma experiência enriquecedora para todos os fãs desse mundo fascinante.
+Todavia ao explorar mais profundamente, percebi outra necessidade compartilhada por muitos, a ausência de uma ferramenta centralizada para gerenciar meus próprios animes, onde teria por exemplo informações dos animes que eu estava assistindo e os que estariam na fila de espera.
+
+E assim, a API de Animes esta ganhando vida, originário de uma necessidade pessoal e evoluindo para uma ferramenta que não apenas calcula o tempo de exibição, mas também oferece um espaço organizado para gerenciar e explorar uma variedade diversificada de animes.
+
+A API de Animes é o resultado da paixão por animes e do desejo de encontrar soluções práticas, criando uma experiência enriquecedora para todos os fãs desse mundo fascinante.
 
 ---
 
@@ -342,4 +346,3 @@ Se tiver alguma dúvida, sugestão ou desejar entrar em contato, fique à vontad
 
 [![Clique aqui](https://img.shields.io/badge/Clique%20aqui-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HxtrEKNsfy)
 
-Estou à disposição para ajudar! Se você tiver qualquer pergunta ou quiser compartilhar uma sugestão, sinta-se à vontade para entrar em contato por mensagem direta no Discord. Estou ansioso para ouvir de você!
