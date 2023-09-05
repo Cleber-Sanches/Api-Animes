@@ -20,31 +20,40 @@ A API de Animes é o resultado da paixão por animes e do desejo de encontrar so
 
 ### Funcionalidades Ativas
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Calcular o tempo estimado para assistir a um anime completo.
-  - A funcionalidade de cálculo de tempo está sendo desenvolvida e estará disponível em breve.
+- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/aguardando.svg" align="center" />&nbsp;&nbsp;<b>Calcular o tempo estimado para assistir a um anime completo.</b>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Gerenciar uma lista personalizada de animes assistidos, em andamento e planejados.
-   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Listar animes na lista do usuário.
-   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Adicionar um anime à lista do usuário.
-   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Remover um anime da lista do usuário.
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Indicar o episódio atual assistido pelo usuário.
+- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;<b>Gerenciar uma lista personalizada de animes assistidos, em andamento e planejados.</b>
+   - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;Listar animes na lista do usuário.
+     
+  - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;Adicionar um anime à lista do usuário.
+    
+   - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;Remover um anime da lista do usuário.
+     
+  - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/nao-iniciada.svg" align="center" />&nbsp;&nbsp;Indicar o episódio atual assistido pelo usuário.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Pesquisar animes por nome ou ID.
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Buscar detalhes de um anime por ID ou nome.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Recursos administrativos para adicionar, atualizar e remover animes do banco de dados.
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Registrar um novo anime.
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check Mark Button" width="16" align="center"/> Excluir um anime do banco de dados.
+ - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;<b>Pesquisar animes por nome ou ID.</b>
+  
+    - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;Buscar detalhes de um anime por ID ou nome.
+
+- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;<b>Recursos administrativos para adicionar, atualizar e remover animes do banco de dados.</b>
+
+  - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;Registrar um novo anime.
+
+  - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluida.svg" align="center" />&nbsp;&nbsp;Excluir um anime do banco de dados.
 
 ### Funcionalidades a Serem Implementadas
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Sistema de avaliação para cada anime.
+- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/não-disponível.svg" align="center" />&nbsp;&nbsp;<b>Sistema de avaliação para cada anime.</b>
 
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Adicionar a funcionalidade de avaliação para cada anime.
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Permitir que os usuários avaliem os animes com notas.
+  - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/não-disponível.svg" align="center" />&nbsp;&nbsp;Adicionar a funcionalidade de avaliação para cada anime.
+    
+  - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/não-disponível.svg" align="center" />&nbsp;&nbsp;Permitir que os usuários avaliem os animes com notas.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Sistema de gerenciamento de status dos animes na lista do usuário.
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Permitir que os usuários marquem animes como "Assistindo", "Completo" e "Planejado" etc...
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Black%20Large%20Square.png" alt="Black Large Square" width="16" align="center" /> Implementar atualização de status para cada anime na lista do usuário.
+- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/não-disponível.svg" align="center" />&nbsp;&nbsp;<b>Sistema de gerenciamento de status dos animes na lista do usuário.</b>
+  
+  - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/não-disponível.svg" align="center" />&nbsp;&nbsp;Permitir que os usuários marquem animes como "Assistindo", "Completo" e "Planejado" etc...
+    
+  - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/não-disponível.svg" align="center" />&nbsp;&nbsp;Implementar atualização de status para cada anime na lista do usuário.
 
 ---
 
