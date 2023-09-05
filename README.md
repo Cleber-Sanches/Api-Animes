@@ -17,9 +17,11 @@ E assim, a API de Animes esta ganhando vida, originário de uma necessidade pess
 A API de Animes é o resultado da paixão por animes e do desejo de encontrar soluções práticas, criando uma experiência enriquecedora para todos os fãs desse mundo fascinante.
 
 ---
+</br>
 <div align="center">
 <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluido-card.svg" style="width: 200px">&nbsp;&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/nao-concluido-card.svg" style="width: 200px">&nbsp;&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/aguardando-card.svg" style="width: 200px">&nbsp;&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/pendente-card.svg" style="width: 200px">
 </div>
+</br>
 
 
 
@@ -60,7 +62,6 @@ A API de Animes é o resultado da paixão por animes e do desejo de encontrar so
     
   - <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/não-disponível.svg" align="center" />&nbsp;&nbsp;Implementar atualização de status para cada anime na lista do usuário.
 
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="27" align="center" /> Como Usar
 
@@ -73,10 +74,10 @@ A API de Animes é o resultado da paixão por animes e do desejo de encontrar so
 
    <p align="center">
     <a href="https://github.com/Cleber-Sanches/Api-Animes/blob/main/rotas-insomnia.json">
-        <img src="https://img.shields.io/badge/Arquivo%20com%20as%20rotas-4000BF?logo=insomnia&logoColor=white" width="300">
+        <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/arquivo-rotas.svg" style="width:400px">
     </a>
 </p>
-
+</br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Rotas da API
 
