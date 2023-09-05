@@ -17,7 +17,9 @@ E assim, a API de Animes esta ganhando vida, originário de uma necessidade pess
 A API de Animes é o resultado da paixão por animes e do desejo de encontrar soluções práticas, criando uma experiência enriquecedora para todos os fãs desse mundo fascinante.
 
 ---
+<div align="center">
 <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/concluido-card.svg" style="width: 200px">&nbsp;&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/nao-concluido-card.svg" style="width: 200px">&nbsp;&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/aguardando-card.svg" style="width: 200px">&nbsp;&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/pendente-card.svg" style="width: 200px">
+</div>
 
 
 
