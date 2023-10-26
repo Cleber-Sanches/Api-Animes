@@ -1,6 +1,6 @@
 # API de Animes 🎬
 
-Bem-vindo à API de Animes, um projeto desenvolvido para facilitar o gerenciamento e a exploração de seus animes favoritas.
+Bem-vindo à API de Animes, um projeto desenvolvido para facilitar o gerenciamento e a exploração de seus animes favoritas. 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" align="baseline"/> A História por Trás da API de Animes
 
