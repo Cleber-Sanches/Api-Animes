@@ -83,7 +83,7 @@ A API de Animes é o resultado da paixão por animes e do desejo de encontrar so
 
 Aqui estão as principais rotas da API de Animes e suas descrições:
 
-<details><summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/post.svg" style="width: 83,33px;" align=center> 
+<details><summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/post.svg" width= 83,33px; align=center> 
   <b>/registrar</b>- Criar Nova Conta</summary>
 
 Cria uma nova conta de usuário.
@@ -106,7 +106,7 @@ Cria uma nova conta de usuário.
 }
 ```
 
-</details><details><summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/post.svg" style="width: 83,33px;" align=center> 
+</details><details><summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/post.svg" width=83,33px; align=center> 
   <b>/entrar</b>- Realizar Login</summary>
 
 Realiza o login do usuário.
@@ -133,7 +133,7 @@ Exemplo de resposta (200 OK):
 }
 ```
 
-</details><details><summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/get.svg" style="width: 72,12px;" align=center> 
+</details><details><summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/get.svg" width=72,12px; align=center> 
   <b> /animes</b>- Listar Animes</summary> 
    Retorna a lista de todos os animes cadastrados.
 
@@ -167,7 +167,7 @@ Exemplo de resposta (200 OK):
 ```
 
 </details><details><summary>
-   <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/get.svg" style="width: 72,12px;" align=center> 
+   <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/get.svg" width=72,12px; align=center> 
     <b>/animes/buscar/:idOuNome</b>- Buscar Animes</summary>
 
 Busca um anime pelo ID ou nome.
@@ -195,7 +195,7 @@ Exemplo de resposta (200 OK):
 </details>
 
 <details><summary>
-   <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/post.svg" style="width: 83,33px;" align=center> 
+   <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/post.svg" width=83,33px; align=center> 
   <b> /animes/registrar</b> - Registra um novo anime</summary>
 
 Registra um novo anime no banco de dados.
@@ -224,7 +224,7 @@ O corpo da requisição deve ser um objeto JSON contendo os seguintes campos:
 
 </details>
 <details>
-<summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/delete.svg" style="width: 97px;" align=center>
+<summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/delete.svg" width=97px; align=center>
     <b>/animes/:idOuNome</b> - Excluir Anime</summary>
 
 Exclui um anime do banco de dados com base no ID ou nome fornecido.
@@ -251,7 +251,7 @@ Exemplo de resposta (200 OK):
 </details>
 
 <details>
-<summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/post.svg" style="width: 83,33px;" align=center> 
+<summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/post.svg" width=83,33px; align=center> 
   <b>/animes/usuario/adicionar/:idOuNome</b> - Adicionar Anime à Lista do Usuário</summary>
 
 Adiciona um anime à lista pessoal do usuário com base no ID ou nome fornecido.
@@ -285,7 +285,7 @@ Exemplo de resposta (201 Created):
 
 <details>
  <summary>
-    <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/delete.svg" style="width: 97px;" align=center>
+    <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/delete.svg" width= 97px; align=center>
     <b>/animes/usuario/remover/:idOuNome</b>- Remover Anime da Lista do Usuário
   </summary>
 Esta rota permite remover um anime da lista pessoal do usuário. Você pode usar o ID numérico ou o nome do anime para remover da lista.
@@ -322,7 +322,7 @@ Exemplo de resposta (200 OK):
 </details>
 
 <details>
-<summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/get.svg" style="width: 72,12px;" align=center> 
+<summary><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/get.svg" width= 72,12px; align=center> 
   <b>/animes/usuario/lista</b> - Listar Animes do Usuário</summary>
 
 Esta rota permite listar os animes presentes na lista pessoal do usuário.
